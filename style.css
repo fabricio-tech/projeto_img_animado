@@ -1,0 +1,19 @@
+
+.centralizada{
+   display: block;
+  margin: 0 auto;
+  filter: drop-shadow(10px 10px 10px aqua);
+}body{
+padding: 9px;
+    background-color: black;
+}
+.rodape{
+    background-color: #0c0c0c;
+  color: #fbfbfc;
+  text-align: center;
+  padding: 30px 40px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin-top: 40px;
+    border-radius: 12px; 
+}
